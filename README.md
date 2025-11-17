@@ -1,4 +1,5 @@
 ### Clonar el repositorio
+en git bash realizar lo siguiente:
 
 git clone https://github.com/EstaniTorres/ENTREGA_TPE.git
 
