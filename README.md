@@ -1,5 +1,9 @@
-## Configuración del Entorno
+### Clonar el repositorio
 
+git clone <URL_DEL_REPOSITORIO>
+cd <nombre_del_repositorio>
+
+## Configuración del Entorno
 Sigue estos pasos para preparar el entorno de trabajo:
 
 1. **Iniciar una nueva terminal.**
